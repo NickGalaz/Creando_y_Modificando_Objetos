@@ -1,6 +1,6 @@
 # Desafío: Creando y modificando Objetos
 
-### Módulo 2
+### Módulo 3
 ### Programación Avanzada en JavaScript
 
 ## Unidad: 1 - Trabajo Práctico 1
