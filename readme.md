@@ -1,4 +1,4 @@
-# Desafío: Creando y modificando Objetos
+# Desafío: Creando y Modificando Objetos
 
 ### Módulo 3
 ### Programación Avanzada en JavaScript
